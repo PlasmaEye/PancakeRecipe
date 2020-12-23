@@ -41,6 +41,8 @@ Beat the egg and oil together then stir in the milk and vanilla.
 
 Combine the liquids and solids and mix until there are only small chunks.
 
+## Cooking Instructions
+
 ### Pan Fry
 
 Pour about 1/3 cup of mixture onto a greased (butter or oil) skillet that is on medium heat. Fry until the edges are dull then flip and fry until middle of pancake bounces back when pressed.
