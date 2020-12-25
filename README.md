@@ -14,7 +14,8 @@ Modified from Dad's original pancake recipe which had wheat flour (too heavy).
 ## Ingredients
 - 1 cup Flour
 - 1 tablespoon Baking Powder
-- 1 teaspoon Salt
+- ¼ teaspoon Salt
+- 1 tablespoon Sugar
 - 1 Egg
 - 1 teaspoon Vanilla
 - 2 tablespoons Oil
@@ -25,7 +26,8 @@ Modified from Dad's original pancake recipe which had wheat flour (too heavy).
 ### Solids
 - 1 cup Flour
 - 1 tablespoon Baking Powder
-- 1 teaspoon Salt
+- ¼ teaspoon Salt
+- 1 tablespoon Sugar
 
 Whisk mixture together trying to get rid of clumps.
 
